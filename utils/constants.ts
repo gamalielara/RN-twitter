@@ -1,0 +1,14 @@
+export enum Color {
+  PRIMARY_PURPLE = "#1C95E2",
+  TEXT_PRIMARY = "#D5EF7F",
+  WHITE = "#FFFFFF",
+  YELLOW = "#D5EF7F",
+  SECONDARY_PURPLE = "#453257",
+  GRAY = "#E8E8E8",
+}
+
+export enum TextColor {
+  PLACEHOLDER_TEXT = "#AC8EC9",
+  TEXT_PRIMARY = "#453257",
+  SECONDARY_TEXT = "#AC8EC9",
+}
